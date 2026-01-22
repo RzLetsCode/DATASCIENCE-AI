@@ -32,7 +32,7 @@ Example response:
   ]
 }
 
-
+```
 ## 2. Requirements (one‑time setup with uv)
 
 You only need to install these once.
