@@ -1,4 +1,3 @@
-```markdown
 # MCP Server – Simple Mock Documentation API
 
 This project is a very small web server that returns fake documentation from a “mock database”.  
@@ -32,9 +31,7 @@ Example response:
     }
   ]
 }
-```
 
----
 
 ## 2. Requirements (one‑time setup with uv)
 
